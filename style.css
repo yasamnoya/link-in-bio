@@ -12,14 +12,14 @@ body, html {
 body {
   background-image: linear-gradient(
           rgba(0, 0, 0, 0.4), 
-          rgba(0, 0, 0, 0.9)
+          rgba(0, 0, 0, 0.7)
         ),url('omar-flores-lQT_bOWtysE-unsplash.jpg');
   background-size:  cover;
   height: 100vh;
 }
 
 header {
-  margin-top: 3em;
+  padding-top: 7em;
   text-align: center;
   display: flex;
   flex-direction: column;
